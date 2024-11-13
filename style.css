@@ -3,7 +3,7 @@ body {
   background-size: cover;
 }
 
-page {
+#page {
   box-sizing: border-box;
   width: 800px;
   padding: 24px;
