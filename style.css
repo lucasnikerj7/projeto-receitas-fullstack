@@ -42,11 +42,11 @@ h1 {
   font-size: 40px;
 }
 
-h2 {
+h2, h3 {
   font-size: 24px;
 }
 
-h1, h2 {
+h1, h2, h3 {
   color:#291B1A;
   margin-bottom: 4px;
   line-height: 150%; 
